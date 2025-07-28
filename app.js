@@ -10,7 +10,7 @@ btn.addEventListener('click', () =>{
 const h = parseFloat(height.value)
 
 
-if(w > 110 && h > 6.5){
+if(w > 110 && h > 6){
   result.innerText = ' Obese'
 }
 else if(w >= 80 && w <= 99 && h >= 5.7 && h <= 6){
