@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+}
+
+.bmi-input{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 500px;
+  margin-inline: auto;
+}
+input{
+  padding: .5rem 1rem;
+}
+button{
+  padding: .5rem 1rem;
+}
